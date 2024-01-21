@@ -5,5 +5,5 @@
 * 🌱 My current activities:
   * Learning how to use React and Redux 
   * Learning more about JavaScript from [Programmer Zaman Now](https://kelas.programmerzamannow.com/p/pemrograman-javascript-untuk-pemula-sampai-mahir)
-  * Sometimes, I follow tips from YouTube or articles and implement them on [Codepen](https://codepen.io/fnurrahmah125)
+  * Implementing things on [Codepen](https://codepen.io/fnurrahmah125) when I find something cool on the Internet
   * Trying to solve [LeetCode](https://leetcode.com/fnurrahmah125/) exercises every day 
