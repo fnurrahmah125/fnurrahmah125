@@ -5,8 +5,6 @@
 * 🌱 My current activities:
   * Developing my portfolio ([fnurrahmah.vercel.app](https://fnurrahmah.vercel.app/))
   * Learning how to use React and Vue
-  * Learning more about JavaScript from [Programmer Zaman Now](https://kelas.programmerzamannow.com/p/pemrograman-javascript-untuk-pemula-sampai-mahir)
-  * Implementing things on [Codepen](https://codepen.io/fnurrahmah125) when I find something cool on the Internet
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnurrahmah125&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula)
