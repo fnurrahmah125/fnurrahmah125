@@ -2,9 +2,9 @@
 
 * 💻 I have previous experience working as **Associate Software Developer - Frontend** at [Xtremax](https://www.xtremax.com/) for 1 year
 * 🔎 I am currently looking for a new opportunity as a front-end developer due to a recent layoff 🥲
-* 🌱 My current activities:
+* 🌱 Current activities:
   * Developing my portfolio ([fnurrahmah.vercel.app](https://fnurrahmah.vercel.app/))
-  * Learning how to use React and Vue
+  * Improving frontend skills
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnurrahmah125&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula)
