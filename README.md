@@ -1,7 +1,6 @@
 ### Hi there, I'm [Fatrini](https://fnurrahmah.vercel.app/) 👋 ###
 
 * 💻 I have previous experience working as **Associate Software Developer - Frontend** at [Xtremax](https://www.xtremax.com/) for 1 year
-* 🔎 I am currently looking for a new opportunity as a front-end developer due to a recent layoff 🥲
 * 🌱 Currently learning fullstack development
 
 
